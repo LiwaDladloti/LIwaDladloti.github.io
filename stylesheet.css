@@ -17,10 +17,9 @@ hr {
 
 #header {
   font: normal 76px/1 "amaranth", Helvetica, sans-serif;
-  color: #000000;
-    margin-left: 200px;
-    padding-top: 90px;
-    
+  color: lightgrey;
+  margin-left: 200px;
+  padding-top: 90px;  
 }
 #page {
     background: linear-gradient(-45deg, grey, white) no-repeat;
@@ -34,6 +33,7 @@ h2 {
     border: solid;
     text-align: center;
     font-size: 50px;
+    color: lightgrey;
 }
 #germany {
     margin-right: 20px;
@@ -54,4 +54,5 @@ h4 {
     font-family: sans-serif;
     font-size: 25px;
     text-align: center;
+    background-color: dimgray;
 }
