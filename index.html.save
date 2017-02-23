@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Liwa Dlaloti
+        </title>
+    </head>
+    
+    <body>
+        <h1>
+            Liwa <br> Dladloti
+        </h1>
+    
+    <img src = "table mountain sunset.JPG" img alt = "Table Mountain"/>
+    
+        <h1>
+            Which City?
+        </h1>
+        <p>
+            Germany... A place of perfectionists, where you find dedication and commitment without even looking for it. 
+		We see perfectionist by looking at the inventions that are found there, the quality of their products is just superb, you can tell by just looking at the output that the input comes from an “Agile Team”...<br>
+            A simple example, where almost everyone would hardly debate it... Their cars. They have the world's best cars 
+        </p>
+        <img src="germany-city-at-night-wallpaper-2.jpg" img alt="The cty bridge"/>
+    
+        <h2>
+            Which foreign Language?
+        </h2>
+<table>
+    <tr>
+	   <th>
+		English Phrase
+	   </th>
+	   <th>
+		French Phrase
+	   </th>
+    </tr>
+</table>    
+        
+    </body>
+</html>
