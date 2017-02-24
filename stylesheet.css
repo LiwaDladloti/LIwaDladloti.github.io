@@ -57,3 +57,7 @@ h4 {
     text-align: center;
     background-color: dimgray;
 }
+img {
+    border-radius: 10%;
+    padding: 10px;
+}
